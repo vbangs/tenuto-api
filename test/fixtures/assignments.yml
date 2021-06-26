@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  task: MyString
+  new_material: false
+  developing_material: false
+  performance_material: false
+  technique: false
+  musicianship: false
+  week_of: 2021-06-26
+
+two:
+  task: MyString
+  new_material: false
+  developing_material: false
+  performance_material: false
+  technique: false
+  musicianship: false
+  week_of: 2021-06-26
