@@ -13,6 +13,7 @@ Tenuto is an app that allows musicians to organize their practice sessions accor
 ## Technology Used
 Ruby </br>
 Rails </br>
+HMTL </br>
 Cors </br>
 heroku </br>
 
