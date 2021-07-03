@@ -1,24 +1,24 @@
-# README
+# tenuto API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Author:** Veronica Bangs
 
-Things you may want to cover:
 
-* Ruby version
+## Project Summary
+Tenuto is an app that allows musicians to organize their practice sessions according to Gerald Klickstein's Five Practice Zones.  A Rails backend and JSON API with full CRUD operations is used create the music assignment model featured in the app.
 
-* System dependencies
 
-* Configuration
+</br>
 
-* Database creation
 
-* Database initialization
+## Technology Used
+Ruby </br>
+Rails </br>
+Cors </br>
+heroku </br>
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+</br>
 
-* Deployment instructions
 
-* ...
+
+**Link to Live Site:** https://tenuto.herokuapp.com/assignments/
